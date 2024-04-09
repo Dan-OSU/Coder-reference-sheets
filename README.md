@@ -1,7 +1,7 @@
 # Reference-sheets
 How to do the things
 
-Add: 
+Update:
 Identities:
 
 ~(~p) ≡ p
