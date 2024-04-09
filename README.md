@@ -2,6 +2,7 @@
 How to do the things
 
 Update:
+
 Identities:
 
 ~(~p) ≡ p
