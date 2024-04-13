@@ -9,7 +9,7 @@ I've built an index of them in the attached [Coder_reference-sheets.xlsx file](h
 
 It is in the directory: Coder-reference-sheets/Pivot-table-ized-refs/  
 
-This file has pivot tables and slicers (filters) galore.  Enjoy! 
+This file has all the pivot tables you could ask for.  Keep the change ya filthy animal!  
 
 <div align="center"><img src="./random/wwysydh.gif"></div>
 
