@@ -11,6 +11,8 @@ It is in the directory: Coder-reference-sheets/Pivot-table-ized-refs/
 
 This file has pivot tables and slicers (filters) galore.  Enjoy! 
 
+<div align="center"><img src="./random/wwysydh.gif"></div>
+
 Example of the things: 
 
 Update:
