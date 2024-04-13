@@ -6,6 +6,7 @@ How to do the things
 Here are some reference sheets. They could be hotkeys, programming functions, or something else.  
 
 I've built an index of them in the attached [Coder_reference-sheets.xlsx file](https://github.com/Dan-OSU/Coder-reference-sheets/blob/main/Pivot-table-ized-refs/Coder_reference-sheets.xlsx). 
+
 It is in the directory: Coder-reference-sheets/Pivot-table-ized-refs/  
 
 This file has pivot tables and slicers (filters) galore.  Enjoy! 
