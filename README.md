@@ -1,6 +1,12 @@
 # Reference-sheets
 How to do the things
 
+### Good day!  
+
+Here are some reference sheets. They could be hotkeys, programming functions, or something else.  I've built an index of them in the attached .xlsx file.  This file has pivot tables and slicers galore.  Enjoy! 
+
+Example of the things: 
+
 Update:
 
 Identities:
